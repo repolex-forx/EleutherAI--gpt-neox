@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/EleutherAI/gpt-neox/commit/28c81ed9f75e45cc58cabd631385de7d29c95115",
       "git:hexsha": "28c81ed9f75e45cc58cabd631385de7d29c95115",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/EleutherAI/gpt-neox/commit/98683aee2a697027002ea9c907bc160dbaf2539a",
