@@ -1,0 +1,11 @@
+{
+  "org": "EleutherAI",
+  "repo": "gpt-neox",
+  "versions": [
+    {
+      "commit": "28c81ed9f75e45cc58cabd631385de7d29c95115",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:06:04.455993+00:00"
+    }
+  ]
+}
